@@ -9,3 +9,7 @@ Functionality:
   - [x] Can send a message to the user, both ways text or audio
   - [x] Can hold the audio button to send the audio message to the user
   - [x] Can play audio file in the chat list
+
+Left Functionality:
+  - [ ] mention with @ in the chat
+  - [ ] Have to covert it to typescript
